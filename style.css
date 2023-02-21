@@ -19,7 +19,7 @@ html, body{
   #take-photo-button{
       position: fixed;
       bottom: 30px;
-      width: 100%;
+      /*width: 100%;*/
 
       width: 300px;
       background-color: black;
@@ -39,7 +39,7 @@ html, body{
   #front-camera-button{
       position: fixed;
       bottom: 80px;
-      width: 100%;
+      /*width: 100%;*/
 
       width: 300px;
       background-color: black;
